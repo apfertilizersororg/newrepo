@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 i am from master
+=======
+hi master 
+i am from branch 
+
+>>>>>>> bugfix
